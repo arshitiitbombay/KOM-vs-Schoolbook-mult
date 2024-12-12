@@ -1,2 +1,2 @@
 # KOM-vs-Schoolbook-mult
-Project code : KOm and Schoolbook Algorithm on VHDL
+Project code : KOM and Schoolbook Algorithm on VHDL
